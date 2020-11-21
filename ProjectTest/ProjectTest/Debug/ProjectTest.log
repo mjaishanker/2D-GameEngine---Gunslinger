@@ -1,0 +1,11 @@
+﻿  GameObject.cpp
+C:\Users\manij\Desktop\School\Game Engine Construction\ProjectTest\ProjectTest\GameObject.cpp(74,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\manij\Desktop\School\Game Engine Construction\ProjectTest\ProjectTest\GameObject.cpp(83,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\manij\Desktop\School\Game Engine Construction\ProjectTest\ProjectTest\GameObject.cpp(90,45): warning C4018: '>': signed/unsigned mismatch
+C:\Users\manij\Desktop\School\Game Engine Construction\ProjectTest\ProjectTest\GameObject.cpp(124,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\manij\Desktop\School\Game Engine Construction\ProjectTest\ProjectTest\GameObject.cpp(129,45): warning C4018: '>': signed/unsigned mismatch
+C:\Users\manij\Desktop\School\Game Engine Construction\ProjectTest\ProjectTest\GameObject.cpp(160,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\manij\Desktop\School\Game Engine Construction\ProjectTest\ProjectTest\GameObject.cpp(170,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\manij\Desktop\School\Game Engine Construction\ProjectTest\ProjectTest\GameObject.cpp(207,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\manij\Desktop\School\Game Engine Construction\ProjectTest\ProjectTest\GameObject.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+  ProjectTest.vcxproj -> C:\Users\manij\Desktop\School\Game Engine Construction\ProjectTest\Debug\ProjectTest.exe
